@@ -48,7 +48,7 @@ Itrac app is live in version beta-v0.1, with the QR feature and other essential 
 #### Following is a visual walkthrough of the app:– 
 
  	
-![]()
+![](https://github.com/broadmind-admin/iTrac-Info/blob/master/images/Home%20.png)
 
 On the landing screen, the Users will be able to quickly track how many people they have met today and they ll be able to add their new meetings to the app by tapping “Add people”.
 
