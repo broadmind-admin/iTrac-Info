@@ -97,7 +97,7 @@ Users will also be able to browse through the information shared by authorities,
 
 - Abhishek Kar
 - Nandita Varshney, Student, [IIT Guwahati](http://www.iitg.ac.in/)
-- Sipun Pradhan, [NTU Taiwan](https://www.ntu.edu.tw/english/), Blockchain Labs (r04922153@csie.ntu.edu.tw)
+- [Sipun Pradhan](https://www.linkedin.com/in/sipunpradhan/), [NTU Taiwan](https://www.ntu.edu.tw/english/), Blockchain Labs (r04922153@csie.ntu.edu.tw)
 - Venkata Sai Vamsi Penupothu, Co-founder,  [Runo](https://runo.in/)
 - Ishan Kumar, Broadmind Labs 
 - Arindam Sanyal, Creative Design
