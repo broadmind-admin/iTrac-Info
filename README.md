@@ -1,3 +1,12 @@
+# Privacy Preserving Community Tracing
+An open source initiative for our better tomorrow.
+![](https://github.com/broadmind-admin/iTrac-Info/blob/master/images/iTrac.png)
+## Notes
+- [iTrac website](http://www.itrac.io)
+- [Repot bug/Request feature](https://forms.gle/paeLw5roMYm63rM96)
+- [Direct App Download for Android only](https://drive.google.com/file/d/1JRr1lWCH78jjVvDdmQ2Zn0VrLH98sZqk/view?usp=sharing)
+- Have an idea,wanna contribute? Send an email to hello@itrac.io or sipun@itrac.io or r04922153@csie.ntu.edu.tw
+
 # EXECUTIVE SUMMARY
 
 ## Objective
