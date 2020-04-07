@@ -96,9 +96,9 @@ Users will also be able to browse through the information shared by authorities,
 ### Team and Contributors:-
 
 - Abhishek Kar
-- Nandita Varshney, Student, [IIT Guwahati](http://www.iitg.ac.in/)
+- [Nandita Varshney](https://www.linkedin.com/in/here-nv/), Student, [IIT Guwahati](http://www.iitg.ac.in/)
 - [Sipun Pradhan](https://www.linkedin.com/in/sipunpradhan/), [NTU Taiwan](https://www.ntu.edu.tw/english/), Blockchain Labs (r04922153@csie.ntu.edu.tw)
-- Venkata Sai Vamsi Penupothu, Co-founder,  [Runo](https://runo.in/)
+- [Venkata Sai Vamsi Penupothu](https://www.linkedin.com/in/venkata-sai-vamsi-penupothu-64922552/), Co-founder,  [Runo](https://runo.in/)
 - Ishan Kumar, Broadmind Labs 
 - Arindam Sanyal, Creative Design
 
@@ -107,5 +107,5 @@ Users will also be able to browse through the information shared by authorities,
 - Diksha Rawat
 - Manu Balaji
 - Honey Arora
-- Anushka Ajay Bhave,VIT,(anushka.bhave18@vit.edu)
+- [Anushka Ajay Bhave](https://www.linkedin.com/in/anushka-bhave-8b9617193/),VIT,(anushka.bhave18@vit.edu)
 - Anirudh Prashant Kolwadkar,VIT
