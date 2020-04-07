@@ -3,7 +3,7 @@
 ## Objective
 Contact tracing has been a pillar of communicable disease control in public health for decades. However, we  continue to have large scale challenges in achieving the goals of contact tracing during such chaotic events. Development of better guidelines and strategies for pandemic contact tracing continues. COVID-19 has brought an unprecedented challenge for all of us. Leveraging technology can help us contain community transmission and channelize our efforts to the high-risk areas.
 
-
+![](https://user-images.githubusercontent.com/54904421/78705361-f0519380-793f-11ea-8b98-8e2fbe7c0a29.jpeg)
 
 ## Goals
 Singapore and South Korea have shown us the effectiveness of the contact tracing model in reducing community transmutation by actively tracking infected people and sending alertness to the suspect cases for early intervention, so that necessary quarantine and treatment can be proactively done.
