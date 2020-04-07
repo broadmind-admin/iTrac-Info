@@ -45,39 +45,32 @@ Itrac is a collaboration app, which use inputs from it’s registered community 
 ## Current Status:-
 Itrac app is live in version beta-v0.1, with the QR feature and other essential features enabled. SMS and Bluetooth tracking will be included in the next version, which can be released within a week. 
 
-Following is a visual walkthrough of the app:– 
+#### Following is a visual walkthrough of the app:– 
 
  	
-
-
+![]()
 
 On the landing screen, the Users will be able to quickly track how many people they have met today and they ll be able to add their new meetings to the app by tapping “Add people”.
 
 
-
+![]()
 The users will also be able to track the risk of being COVID-19 positive. They will be able to add to the app if they see any symptoms of illness, and the app will accordingly update the COVID-19 Risk Quotient.
  	
-
-
-
+![]()
 On the landing screen itself, as the user scrolls down, they will get a quick view of their recent meetings and the color (green in this screen) will highlight their respective COVID-19 Risk Quotient.
 
 
-
-
+![]()
 Users will also get a quick glimpse of the COVID-19 cases in their vicinity.
 	
  	
 
-
-
+![]()
 In the “timeline” view, the user would be able to track the past meetings
 
 
 
-
-
-
+![]()
 User would also be able to track the COVID-19 Risk Quotient of each of the 1st degree connections, in the timeline view
  	
 
