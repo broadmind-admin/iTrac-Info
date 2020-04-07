@@ -1,21 +1,23 @@
-EXECUTIVE SUMMARY
+# EXECUTIVE SUMMARY
 
-
-Objective
+## Objective
 Contact tracing has been a pillar of communicable disease control in public health for decades. However, we  continue to have large scale challenges in achieving the goals of contact tracing during such chaotic events. Development of better guidelines and strategies for pandemic contact tracing continues. COVID-19 has brought an unprecedented challenge for all of us. Leveraging technology can help us contain community transmission and channelize our efforts to the high-risk areas.
 
 
 
-Goals
+## Goals
 Singapore and South Korea have shown us the effectiveness of the contact tracing model in reducing community transmutation by actively tracking infected people and sending alertness to the suspect cases for early intervention, so that necessary quarantine and treatment can be proactively done.
 
 Itrac is a contact tracing app, which aims to meet the following goals to help fight the COVID-19 pandemic:
 
-Self Protection - This app keeps a track of your “close contact meetings” and alerts you if there is a possibility of infection within your network. This enables you to realize the risk early so that you can self-quarantine yourself and take required medical support.
+### Self Protection - 
+This app keeps a track of your “close contact meetings” and alerts you if there is a possibility of infection within your network. This enables you to realize the risk early so that you can self-quarantine yourself and take required medical support.
 
-Site Alertness - Public places like buses, rail compartments, department stores,office buildings and apartment complex etc are high risk areas where community transmission happens. Itrac can be used to track if any infected person has visited these public areas and hence alert all the visitors and quarantine the public location till it is sanitised.
+### Site Alertness - 
+Public places like buses, rail compartments, department stores,office buildings and apartment complex etc are high risk areas where community transmission happens. Itrac can be used to track if any infected person has visited these public areas and hence alert all the visitors and quarantine the public location till it is sanitised.
 
-Community Protection - Itrac can be used to trace community level data at a national, state, city, and locality level, and can provide inputs to government (optional)and health department authorities (optional)to focus on high risk areas. 
+### Community Protection - 
+Itrac can be used to trace community level data at a national, state, city, and locality level, and can provide inputs to government (optional)and health department authorities (optional)to focus on high risk areas. 
 
 Solution
 Itrac is a collaboration app, which use inputs from it’s registered community and diagnostics centers to prevent com-munity transmission of COVID-19
