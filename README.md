@@ -19,7 +19,7 @@ Public places like buses, rail compartments, department stores,office buildings 
 ### Community Protection - 
 Itrac can be used to trace community level data at a national, state, city, and locality level, and can provide inputs to government (optional)and health department authorities (optional)to focus on high risk areas. 
 
-Solution
+## Solution
 Itrac is a collaboration app, which use inputs from it’s registered community and diagnostics centers to prevent com-munity transmission of COVID-19
 
 -	It uses multiple channels such as QR scanning, SMS, and Bluetooth to register any meeting between individuals or their visits to public places. This voluntary exercise and participation of users is the key to make the tracing program effective.
@@ -33,7 +33,7 @@ Itrac is a collaboration app, which use inputs from it’s registered community 
 -	As an additional privacy measure, the users can report their meetings in incognito mode. So while the meeting would not appear on the user's timeline, the system will know and alert the users of the risk, if the need be.
 -	A report of the high risk cases with contact numbers of the individuals can be generated and shared with the au-thorities on a regular basis. 
 
-Current Status:-
+## Current Status:-
 Itrac app is live in version beta-v0.1, with the QR feature and other essential features enabled. SMS and Bluetooth tracking will be included in the next version, which can be released within a week. 
 
 Following is a visual walkthrough of the app:– 
@@ -86,26 +86,26 @@ On the “updates” screen, the user will be able to track the details of repor
 Users will also be able to browse through the information shared by authorities, WHO, and other health bodies, that will help create awareness.
    
 
-Support Required
+### Support Required
 -	Tie-ups with all the approved diagnostic centers to help validate the positive cases using a unique ID.
 
--	Create awareness on the benefits of contract tracing among citizens of India using the various outreach channels of Government. 
+-	Create awareness on the benefits of contract tracing among citizens using various outreach channels. 
 
 
 
-Team and Contributors:-
+### Team and Contributors:-
 
-Abhishek Kar, Marcus, Goldman Sachs
-Nandita Varshney, Student, IIT Guwahati
-Sipun Pradhan, NTU Taiwan, Blockchain Labs (r04922153@csie.ntu.edu.tw)
-Venkata Sai Vamsi Penupothu, Co-founder, Runo
+Abhishek Kar
+Nandita Varshney, Student, [IIT Guwahati](http://www.iitg.ac.in/)
+Sipun Pradhan, [NTU Taiwan](https://www.ntu.edu.tw/english/), Blockchain Labs (r04922153@csie.ntu.edu.tw)
+Venkata Sai Vamsi Penupothu, Co-founder,  [Runo](https://runo.in/)
 Ishan Kumar, Broadmind Labs 
 Arindam Sanyal, Creative Design
 
-Supporting Contributors:-
+### Supporting Contributors:-
 
 Diksha Rawat
 Manu Balaji
 Honey Arora
-Anushka
-Anirudh
+Anushka Ajay Bhave,VIT,(anushka.bhave18@vit.edu)
+Anirudh Prashant Kolwadkar,VIT
