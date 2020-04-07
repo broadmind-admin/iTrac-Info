@@ -63,25 +63,12 @@ Users will also get a quick glimpse of the COVID-19 cases in their vicinity.
 	
  	
 
-![]()
+![](https://github.com/broadmind-admin/iTrac-Info/blob/master/images/Timeline.png)
 In the “timeline” view, the user would be able to track the past meetings
 
-
-
-![]()
 User would also be able to track the COVID-19 Risk Quotient of each of the 1st degree connections, in the timeline view
  	
-
-
-
-
-
-
 On the “updates” screen, the user will be able to track the details of reported cases in their vicinity. 
-
-
-
-
 
 Users will also be able to browse through the information shared by authorities, WHO, and other health bodies, that will help create awareness.
    
